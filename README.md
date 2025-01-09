@@ -1,4 +1,4 @@
-# Document Retrieval and Q&A with LangChain, NVIDIA AI, and Streamlit
+# RAG TAXATION SYSTEM 
 
 Tax filing can be a complex and daunting task for employees. To simplify this process, 
 this project aimed to create an AI-driven system that analyzes employee Form 16 
